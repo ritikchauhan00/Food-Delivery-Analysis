@@ -81,7 +81,7 @@ with DA:
 
     st.header("Average Delivery Time")
 
-    st.subheader(average_delivery_minutes)
+    st.subheader(average_delivery_minutes) 
 
     # st.metric("Average delivery Time",f"{average_delivery_minutes:.1f}minutes")
 
